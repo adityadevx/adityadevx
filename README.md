@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://devup-adityadevx.vercel.app/](https://devup-adityadevx.vercel.app/)
+- 👨‍💻 All of my projects are available at [archauhan.vercel.app](https://archauhan.vercel.app/)
 
 - 💬 Ask me about **react javascript**
 
